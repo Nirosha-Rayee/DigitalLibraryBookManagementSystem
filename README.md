@@ -74,8 +74,8 @@ java Main
 
 **✨ Future Improvements**
 
-✅ Implement a database (MySQL, PostgreSQL) and use AWS Cloud
+✅ We can implement a database using MySQL.
 
-✅ Add a Graphical User Interface (GUI)
+✅ We can add a Graphical User Interface (GUI) 
 
-✅ Deploy as a REST API 
+✅ Deploy in AWS Cloud.
